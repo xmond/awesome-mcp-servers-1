@@ -476,6 +476,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Art and literature services.
 
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
+- <img src="https://api.iconify.design/mdi:yin-yang.svg?color=%23C9A227" height="14"/> [Yishu Insight](https://github.com/xmond/yishu-insight-mcp)<sup><sup>⭐</sup></sup> - I Ching (Zhouyi) hexagram casting and lookup offline, plus Zi Wei Dou Shu charts, compatibility, life trends, classical texts and famous charts. Hosted endpoint at https://insightapp.life/mcp
 
 <br />
 
